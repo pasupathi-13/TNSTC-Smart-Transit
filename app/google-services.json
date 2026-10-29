@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677760252988",
+    "firebase_url": "https://tnstc-smart-transit-default-rtdb.firebaseio.com",
+    "project_id": "tnstc-smart-transit",
+    "storage_bucket": "tnstc-smart-transit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677760252988:android:ab9a0625b5c588534a5739",
+        "android_client_info": {
+          "package_name": "com.tnstc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8Tz4gILqyPlDoz7HdWBMfoisMP3DGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
